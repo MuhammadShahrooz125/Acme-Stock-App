@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AcmeStockAppWebAPI/AcmeStockAppWebAPI.csproj" />
+  <Project Path="AcmeStockBAL/AcmeStockBAL.csproj" />
+  <Project Path="AcmeStockDAL/AcmeStockDAL.csproj" />
+  <Project Path="AcmeStockModel/AcmeStockModel.csproj" />
+  <Project Path="IntegrationTests/IntegrationTest.csproj" Id="64420564-c903-409c-a59a-c45a06c68107" />
+  <Project Path="XUnitTest/XUnitTest.csproj" Id="499156e3-62f1-4aaa-9cfa-af945784cc0a" />
+</Solution>

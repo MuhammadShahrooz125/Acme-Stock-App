@@ -1,0 +1,6 @@
+@AcmeStockAppWebAPI_HostAddress = http://localhost:5189
+
+GET {{AcmeStockAppWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
